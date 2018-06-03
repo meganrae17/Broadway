@@ -1,10 +1,11 @@
 body {
-  text-align: center;
-
+  text-align: center
 }
 .head {
+  background-repeat: no-repeat;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
 }
+
 h1 {
   font-family: Helvetica;
   font-size: 70px;
@@ -35,5 +36,9 @@ p {
 }
 .About {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
-
+}
+.Footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
 }
